@@ -1,0 +1,12 @@
+body{
+    background: #05312c;
+}
+#root {
+  margin: 0 auto;
+  padding: 0px 20px;
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
